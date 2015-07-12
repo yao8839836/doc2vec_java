@@ -6,7 +6,7 @@ demo : src/test/Doc2VecTest.java
 Require Java 7 or above, I use Java 8 in this project. 
 
 
-Reference
+Reference:
 
 Le, Quoc V., and Tomas Mikolov. "Distributed representations of sentences and documents." ICML (2014).
 
