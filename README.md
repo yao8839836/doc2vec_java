@@ -5,6 +5,7 @@ demo : src/test/Doc2VecTest.java
 
 Require Java 7 or above, I use Java 8 in this project. 
 
+The input file should be in the form of file/amazon_docs.txt. One document per line.
 
 Reference:
 
